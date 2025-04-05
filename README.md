@@ -30,9 +30,14 @@ This hybrid approach outperforms traditional methods by leveraging both generati
 - **StanfordNLP/IMDB:** 98% accuracy on binary sentiment classification.
 - **US_Airline_Sentiment:** 98% accuracy on multi-class sentiment tasks.
 - **StanfordNLP/Sentiment140:** Evaluation in progress.
+
+![US-AirLine-Tweets-ROC_k5_batch64](https://github.com/user-attachments/assets/0f0fabb0-c104-41a7-a924-d6c55d8e360a)
   
 License
 This project is licensed under the .
 
 ## Contact
 For inquiries or collaboration, contact [Hossein.Nekouei@iau.ir] or open an issue on this repository.
+
+
+
